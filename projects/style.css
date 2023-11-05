@@ -1,0 +1,90 @@
+.first{
+    width: 400px;
+    height: 500px;
+    background-color: rosybrown;
+    border-radius: 19px;
+    position: relative;
+   left: 450px;
+   top: 50px;
+   text-align: center;
+}
+.par{
+   position: relative;
+   top: 100px;
+    
+}
+.par1{
+    text-align: start;
+    top: 25px;
+    position: relative;
+   
+    list-style: none;
+    
+}
+.inp{
+    width: 200px;
+    height: 30px;
+    border-radius: 19px;
+    border: none;
+    text-align: center;
+    
+}
+.btnsub{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    position: relative;
+    top: 100px;
+  
+}
+/* Style for the form */
+.fullform {
+    text-align: center;
+}
+
+.inp1 {
+    width: 300px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.qq {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style for the result heading */
+.res {
+    text-align: center;
+    margin: 20px;
+    font-size: 24px;
+}
+
+/* Style for the table */
+#detials {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+/* Style for the Edit and Delete buttons */
+.editbtn, .deletebtn {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+}
